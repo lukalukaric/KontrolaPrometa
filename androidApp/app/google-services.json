@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223757511329",
+    "project_id": "projekt-efed5",
+    "storage_bucket": "projekt-efed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223757511329:android:0dafcd284b09496af45ee0",
+        "android_client_info": {
+          "package_name": "com.example.projekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223757511329-mu8pg9qlpqkdv4n2l75gl1bo3q3mv5v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekt",
+            "certificate_hash": "70b933faf70174b59ebe25a2f36288058e740035"
+          }
+        },
+        {
+          "client_id": "223757511329-bt06ek70p61a1iq382smr459bc5a2a0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD980636DiSFUrvqwnicJdEj2rtkcTkszI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223757511329-bt06ek70p61a1iq382smr459bc5a2a0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

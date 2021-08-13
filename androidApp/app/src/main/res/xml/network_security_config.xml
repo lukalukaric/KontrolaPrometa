@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://178.79.70.200:3000/carimage</domain>
+    </domain-config>
+</network-security-config>

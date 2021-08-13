@@ -1,0 +1,3 @@
+Crontab smo si nastavili, da nam shranjuje vse podatke ob 3.00 uri zjutraj in sicer vsak dan. To se nam zdi primerno, ker takrat lahko predvidevamo, da nebomo nič dodajali
+oziroma spreminjali, zato nebo prišlo do nobenih problemov ali motenj. Prav tako mislim, da nebomo imeli problemov s prostorom, zato si lahko privoščimo dnevno shranjevanje.
+0 3 * * *
